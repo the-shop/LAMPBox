@@ -14,5 +14,7 @@ This pre-defined setup is intended for development machines with quad core CPUs 
 more than that, feel free to bump up numbers defined in `*.yaml` files (`memory` and `cpus` fields)
 
 ## IMPORTANT
+**STLL AN EARLY WIP**
+
 **For now, this is intended for local setup only, there might be security implications if used on production 
 so please DO NOT USE THIS ON PRODUCTION.**
