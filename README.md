@@ -7,7 +7,7 @@ It includes:
   - MySQL 5.6
 
 Note: Contents of this repository are intended to be used with 
-[multi box vagrant with puppet setup we provide](https://github.com/the-shop/Vagrant) only.
+[multi box vagrant with puppet setup we provide](https://github.com/the-shop/STARCommerce) only.
 
 ## Tweaking resources
 This pre-defined setup is intended for development machines with quad core CPUs and at least 8 GB of RAM. If you have 
