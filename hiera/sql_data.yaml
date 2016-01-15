@@ -3,9 +3,6 @@ vagrantfile:
     vm:
         network:
             forwarded_port:
-                vflnp_hhcve3z78ipp:
-                    host: '8913'
-                    guest: '22'
                 public_mysql_sf654ASD:
                     host: '3306'
                     guest: '3306'
@@ -48,7 +45,7 @@ mysql:
         root_password: 'toor'
         override_options: {
             mysqld: {
-                bind-address: 192.168.56.121
+                bind-address: 192.168.56.200
             }
         }
     adminer: 0
@@ -58,7 +55,7 @@ mysql:
             password: 'toor'
     databases:
         mysqlnd_wu5w1imkjbij:
-            name: magento2
+            name: default
             sql: ''
     grants:
         mysqlng_4mvu1v4qaiux:
