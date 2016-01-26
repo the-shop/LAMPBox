@@ -2,7 +2,7 @@
 This repository contains YAML files that define single LAMP box. 
 
 Note: Contents of this repository are intended to be used with 
-[multi box vagrant with puppet setup we provide](https://github.com/the-shop/STARCommerce) only.
+[multi box vagrant with puppet setup we provide](https://github.com/the-shop/Environments) only.
 
 ## Setup
   - Put the code of projects you want to execute through this box in `BoxData/GenericLAMP` directory of main project
